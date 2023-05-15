@@ -12,7 +12,7 @@ function combine(input1: number | string , input2: number | string, resultConver
         result= input1.toString() + input2.toString();
     }
     // if(resultConversion === 'as-number'){
-    //     return +result;
+    //     return +result; --> This is
     // }else {
     //     return result.toString();
     // }
